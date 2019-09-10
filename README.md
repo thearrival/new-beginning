@@ -1,6 +1,6 @@
 # new-beginning
 
-🅰🅱🅾🆄🆃 🆃🅷🅴 🅰🆁🆃🅸🅲🅰🅻 :His name is Esmail was graduated from HUST university 
+ＡＢＯＵＴ ＴＨＥ ＡＵＴＨＯＲ: His name is Esmail was graduated from HUST university 
 majored in Telecom eng and had certificate in "Penetration TESTING AND ethical hacking"
 and energetic to gain more skills in cybersecurity . for any Questions pm me via my email 
 :esmail19980@gmail.com 
