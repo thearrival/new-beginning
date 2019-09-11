@@ -16,32 +16,34 @@ and energetic to gain more skills in cybersecurity . for any Questions pm me via
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 BEFORE YOU MOVE ON YOU MOST HAVE BACKGROUD IN NETWORKING (protocols and port ....etc ) ,
-WEB APPLICATION DESIGN  (HTML,CSS,PHP,JAVA) , KNOWLEGE IN DIFFERENT OPERATION SYSTEM AND BASIC KNOWLEGS IN PROGRAMMING LANGUAGE (PYTHON,C AND SQL ...etc) 
+WEB APPLICATION DESIGN  (HTML,PHP & JAVA) , KNOWLEGE IN DIFFERENT OPERATION SYSTEM AND
+BASIC KNOWLEGS IN PROGRAMMING LANGUAGE (PYTHON,C , SQL ...etc) 
+and I highly recommend this website to learn more about ethical hacking "𝐶𝑌𝐵𝑅𝐴𝑅𝑌.𝐼𝑇" .
 
 
 
 
-
-➊ Reconncanceing and Scanning :
-
-by using TOOLS and websites >>>
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-nslookup : nsloolup "target website"
-hping3 : hping3 -8 "port-port" -S "website"
-ping : ping "target ip or DNS"
-dig : dig "target website" ANY #ANY is to show you all DNS info 
-whois :whois "DNS server"
-nmap : nmap -Sv -Sc -A "target ip"
-nikto : nikto -h "target ip or DNS"
-netdiscover: netdiscover -i (interface) -P 
-osint (phoneinfoga): python3 phoneinfoga.py -n "phone NUM"  # git this tool for GITHUB.
-sherlock : python3 sherlock.py "target name"
-wireshark: it has graphic view 
-shodan and eyezoom website 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+➊ Reconncanceing and Scanning :    ^
+                                   ^
+by using TOOLS and websites >>>    ^
+                                   ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+nslookup : nsloolup "target website" .
+hping3 : hping3 -8 "port-port" -S "website".
+ping : ping "target ip or DNS".
+dig : dig "target website" ANY #ANY is to show you all DNS info . 
+whois :whois "DNS server".
+nmap : nmap -sV -sC -A "target ip" .
+nikto : nikto -h "target ip or DNS" .
+netdiscover: netdiscover -i (interface) -P . 
+osint (phoneinfoga): python3 phoneinfoga.py -n "phone NUM"  # git this tool from GITHUB .
+sherlock : python3 sherlock.py "target name" . 
+wireshark: it has GUI. 
+"shodan" and "zoomeye" for gather website info  .
 
 #Summery is to check the TCP & UDP ports if its open or not and gather the 
 information about DNS server and MAC address and the activity of the network 
-and show you if the target use firewall or not ..
+and show you if the target use firewall or not and the vulnerabilities of the system .
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
