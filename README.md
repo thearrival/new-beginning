@@ -47,3 +47,38 @@ information about DNS server and MAC address and the activity of the network
 and show you if the target use firewall or not and the vulnerabilities of the system .
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+➊ Exploitation and maintenance access :    ^
+                                           ^
+by using TOOLS and websites >>>            ^
+                                           ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+Overview ~
+this is the most diffecult one and you have to be patien coz the prupose in this part is to crack the vulnerable ports and
+it take to most time ....
+the first thing i always do after the fist step of the pentest is to check the version and detials of the target open ports
+and discover about it and see how its secure in ( vlunerable.com )
+
+
+secondly for exploiting there is so many tools ..
+and the famuse one is :::
+-metasploit \ used for break the vulnerable websites .
+-hydra or xhydra \ used to crack the ports like : ssh,http,smtp,ftp,telnet,RPC .... and much more .
+nmap \ also nmap has the abilitsdy to exploit vlunerable ports by using spicefic scrip .
+brupsuite \ using to exploit vulnerable websites . 
+Medusa\ perfect tool use to exploit the service and remote as like administator . 
+
+
+
+
+
+
+
+
+
