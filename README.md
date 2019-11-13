@@ -39,10 +39,6 @@ nikto : nikto -h "target ip or DNS" .
 netdiscover: netdiscover -i (interface) -P . 
 osint (phoneinfoga): python3 phoneinfoga.py -n "phone NUM" #get this tool from GITHUB .
 
-+ 123
-+ 213
-  + 234
-  + 234
 sherlock : python3 sherlock.py "target name" . #get this tool from GITHUB
 wireshark: it has GUI. 
 "shodan" and "zoomeye" for gather website info  .
@@ -81,6 +77,7 @@ Medusa\ perfect tool use to exploit the service and remote as like administator 
 
 
 
+- werqw
 
 
 
