@@ -66,7 +66,7 @@ the first thing i always do after the fist step of the pentest is to check the v
 and discover about it and see how its secure in ( vlunerable.com )
 
 
-secondly for exploiting there is so many tools ..
+secondly for exploiting there are so many tools ..
 and the famuse one is :::
 -metasploit \ used for break the vulnerable websites .
 -hydra or xhydra \ used to crack the ports like : ssh,http,smtp,ftp,telnet,RPC .... and much more .
