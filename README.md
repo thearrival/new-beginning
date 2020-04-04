@@ -29,18 +29,20 @@ and I highly recommend this website to learn more about ethical hacking "𝐶�
 by using TOOLS and websites >>>    ^
                                    ^
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-nslookup : nsloolup "target website" .
-hping3 : hping3 -8 "port-port" -S "website".
-ping : ping "target ip or DNS".
-dig : dig "target website" ANY #ANY is to show you all DNS info . 
-whois :whois "DNS server".
-nmap : nmap -sV -sC -A "target ip" .
-nikto : nikto -h "target ip or DNS" .
-netdiscover: netdiscover -i (interface) -P . 
-osint (phoneinfoga): python3 phoneinfoga.py -n "phone NUM" #get this tool from GITHUB .
-sherlock : python3 sherlock.py "target name" . #get this tool from GITHUB
-wireshark: it has GUI. 
-"shodan" and "zoomeye" for gather website info  .
+- nslookup : nsloolup "target website" .
+- hping3 : hping3 -8 "port-port" -S "website".
+- ping : ping "target ip or DNS".
+- dig : dig "target website" ANY #ANY is to show you all DNS info . 
+- whois :whois "DNS server".
+- nmap : nmap -sV -sC -A "target ip" .
+- nikto : nikto -h "target ip or DNS" .
+- netdiscover: netdiscover -i (interface) -P . 
+- osint (phoneinfoga): python3 phoneinfoga.py -n "phone NUM" #get this tool from GITHUB .
+- sherlock : python3 sherlock.py "target name" . #get this tool from GITHUB
+- wireshark: it has GUI. 
+- "shodan" and "zoomeye" for gather website info  .
+- Nessus\ is a remote security scanning tool, which scans a computer and raises an alert if it discovers any vulnerabilities that malicious hackers could use to gain access to any computer you have connected to a network. 
+
 
 #Summery is to check the TCP & UDP ports if its open or not and gather the 
 information about DNS server and MAC address and the activity of the network 
@@ -60,8 +62,7 @@ by using TOOLS and websites >>>            ^
 
 
 Overview ~
-this is the most diffecult one and you have to be patien coz the prupose in this part is to crack the vulnerable ports and
-it take to most time ....
+This is the most diffecult section and you have to be patient and think out of the box in order to prupose in this part is to crack the vulnerable ports and it's may take to some time ....
 the first thing i always do after the fist step of the pentest is to check the version and detials of the target open ports
 and discover about it and see how its secure in ( vlunerable.com )
 
@@ -77,8 +78,11 @@ Medusa\ perfect tool use to exploit the service and remote as like administator 
 
 
 
+in the END you can write report about methodology, procedures, proper explanation of report content and design, detailed example of testing report, and tester’s personal experience. Once the report is prepared, it is shared among the senior management staff and technical team.
+I Prever to use excel to prescribe it.
 
 
 
 
+                                   ---------Thanks for your reading-------- 
 
