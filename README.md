@@ -63,9 +63,9 @@ by using TOOLS and websites >>>            ^
 
 
 Overview ~
-This is the most diffecult section and you have to be patient and think out of the box in order to prupose in this part is to crack 
+This is the most diffecult section and you have to be patient and think out of the box in order to well-perform and crack 
 the vulnerable ports and it's may take to some time ....
-the first thing i always do after the fist step of the pentest is to check the version and detials of the target open ports
+the first thing i always do after the first step of the pentest is to check the version and detials of the targeted open ports
 and discover about it and see how its secure in ( vlunerable.com )
 
 
@@ -80,9 +80,9 @@ Medusa\ perfect tool use to exploit the service and remote as like administator 
 
 
 
-in the END you can write report about methodology, procedures, proper explanation of report content and design,
+in the END you can write an intelligece report about methodology, procedures, proper explanation of report content and design,
 detailed example of testing report, and tester’s personal experience. Once the report is prepared, it is shared
-among the senior management staff and technical team.  I Prever to use excel to prescribe it.
+among the senior management staff and technical team for the awareness.  I Prever to use excel to prescribe it.
 
 
 
