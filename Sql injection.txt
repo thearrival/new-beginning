@@ -2,7 +2,7 @@
 SQL injection cheat sheet                       *
 *************************************************
 
-First try to figure out vulnerable parameter
+- First try to figure out vulnerable parameter
 
 NOTE: If it's a get request don't forget to url encode the characters.
 
